@@ -44,8 +44,8 @@
 
 ### 🌐 Connect With Me
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Code-space97)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile) 
-- Email: lj288839@gmail.com
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/lokesh-joshi-368aa8359)
+[![Email](https://skillicons.dev/icons?i=gmail)](lj288839@gmail.com)
 
 ---
 
