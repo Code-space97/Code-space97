@@ -10,7 +10,6 @@
 - 🔭 Currently learning **FullStack Developer**, API Testing, and building projects with **AI Tools**.
 - 🌱 Participating in **PromptWars Virtual** hackathons to improve my prompting & AI skills.
 - 💡 Passionate about **API development**, automation, and creating useful tools quickly using AI.
-- 📍 Based in **Uttar Pradesh, India**.
 - 🎯 Goal: Build real projects, contribute to open source, and grow as a developer.
 
 ### 🛠️ Skills & Tools
