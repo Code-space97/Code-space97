@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm <strong>Lokesh Joshi</strong> 👋</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Prompt+Engineer+%7C+FullStack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines= FullStack+Developer;" alt="Typing SVG" />
 </div>
 
 ---
